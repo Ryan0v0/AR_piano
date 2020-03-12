@@ -25,7 +25,8 @@ public class maskshow2 : MonoBehaviour
         //music = GetComponent<AudioSource>();
         //t = Resources.Load("Chord Left") as TextAsset;
         //t = Resources.Load("jht+left") as TextAsset;
-        t = Resources.Load("0") as TextAsset;
+        //t = Resources.Load("0") as TextAsset;
+        t = Resources.Load("Both Scale_left") as TextAsset;
         if (t == null)
         {
             Debug.Log("NULL!");
@@ -61,7 +62,9 @@ public class maskshow2 : MonoBehaviour
     {
         //Debug.Log(Time.time);
         int i;
-        for (i = order / 2; i < order / 2 + 6 && i < NotesNum_l; i++)
+        int st;
+        st = (order / 2 - 4) > 0 ? ((order / 2) - 4) : 0;
+        for (i = st; i < order / 2 + 6 && i < NotesNum_l; i++)
         {
             UpdateMask(sounds_l[i].pitch, sounds_l[i].start, sounds_l[i].end, i) ;
         }

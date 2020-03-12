@@ -16,6 +16,7 @@ public class maskshow : MonoBehaviour
         public int pitch;
         public int finger;
         public float distance;
+        public int mode;
     }
     private int order = 0;
     private int[] mark = new int[20000];
@@ -32,8 +33,10 @@ public class maskshow : MonoBehaviour
         music = GetComponent<AudioSource>();
         //t = Resources.Load("jht+right") as TextAsset;
         //t = Resources.Load("Chord Left") as TextAsset;
-        //t = Resources.Load("0") as TextAsset;
-        t = Resources.Load("Ode to Joy_right_cut") as TextAsset;
+        t = Resources.Load("0") as TextAsset;
+        //t = Resources.Load("Ode to Joy_right_cut") as TextAsset;
+        //t = Resources.Load("Both Scale_right") as TextAsset;
+        //t = Resources.Load("C arp Right") as TextAsset;
         if (t == null)
         {
             Debug.Log("NULL!");
@@ -65,7 +68,9 @@ public class maskshow : MonoBehaviour
     {
         //Debug.Log(Time.time);
         int i;
-        for(i = order/2; i<order/2 + 6 && i< notesNum_r; i++)
+        int st;
+        st = (order / 2 - 4) > 0 ? ((order / 2) - 4) : 0;
+        for (i = st; i<order/2 + 6 && i< notesNum_r; i++)
         {
             UpdateMask(sounds_r[i].pitch, sounds_r[i].start, sounds_r[i].end, i);
         }
