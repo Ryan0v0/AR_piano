@@ -28,17 +28,25 @@ def run_command_line(args):
             self.prompt = '>> '
             self.crf = crf
 
-        def do_viterbi(self, str):
+        def do_viterbi(self, st):
             """Run the viterbi algorithm on input to produce the most
             likely labelling"""
             #print "value=",value
             #xs = parse_line(value)
-            xs = list(map(int,str.split(',')))
+
+            xs = list(map(int,st.split(',')))
             print "xs=",xs
             ys = computeViterbi(crf, xs)
             #print "crf=",crf
             #print "ys=",ys
-            print "%%%",pretty_format(ys)
+            print "%%%",list(ys)
+            f = open("output.txt", "w")
+            f.write(str(list(ys)))
+            #for i in list(ys):
+            #    print(i)
+            #    f.write(str(i))
+            #    f.write(",")
+            f.close()
 
         def do_gibbs_best(self, value):
             """Run Gibbs sampling to produce the best labelling for
