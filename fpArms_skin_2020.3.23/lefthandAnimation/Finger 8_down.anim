@@ -1,0 +1,1492 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Finger 8_down
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0012674863, y: -0.13008478, z: 0.10016673, w: 0.98642945}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.0073341653, y: 0.07227063, z: 0, w: 0.0074505806}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: -0.0012674863, y: -0.13008478, z: 0.10016673, w: 0.98642945}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.010090225, y: -0.014892978, z: 0.34325877, w: 0.93906856}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.13099052, y: -1.1533034, z: 2.7030706, w: -1.0043383}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.02
+        value: {x: -0.014699025, y: -0.018893143, z: 0.3819321, w: 0.92388034}
+        inSlope: {x: -0.15669502, y: 0.3871508, z: 1.2278557, w: -0.500679}
+        outSlope: {x: -0.15627593, y: 0.38761646, z: 1.2233853, w: -0.50365925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: -0.010893352, y: -0.014316015, z: 0.3943422, w: 0.91878754}
+        inSlope: {x: 0.6571412, y: -0.29988587, z: 0.06407499, w: -0.02682209}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.014737015, y: 0.074894734, z: 0.19250432, w: 0.97832286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.93900603, y: 0.75511634, z: 7.915497, w: -1.5974045}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.02
+        value: {x: -0.0016336665, y: 0.081615336, z: 0.27223226, w: 0.9587627}
+        inSlope: {x: -0.5668961, y: 0.017881393, z: 1.8388033, w: -0.5245209}
+        outSlope: {x: -0.5662441, y: 0.017136335, z: 1.8402934, w: -0.5245209}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: -0.0042707864, y: 0.081842974, z: 0.29106438, w: 0.95318675}
+        inSlope: {x: 0.35464764, y: 0.18328428, z: -0.008940697, w: -0.008940697}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: -0.116143964, y: 0.015517181, z: 0.0155762825}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.04
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 50
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3131401627
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3581600619
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2300636539
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2300636539
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3474624385
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2300636539
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3581600619
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3474624385
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.04
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.04
+        value: -0.116143964
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.015517181
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.0155762825
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0012674863
+        inSlope: 0
+        outSlope: 0.0073341653
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0.0012674863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.13008478
+        inSlope: 0
+        outSlope: 0.07227063
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0.13008478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.10016673
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.10016673
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.98642945
+        inSlope: 0
+        outSlope: 0.0074505806
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.98642945
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.010090225
+        inSlope: 0
+        outSlope: -0.13099052
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: -0.014699025
+        inSlope: -0.15669502
+        outSlope: -0.15627593
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0.010893352
+        inSlope: 0.6571412
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.014892978
+        inSlope: 0
+        outSlope: -1.1533034
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: -0.018893143
+        inSlope: 0.3871508
+        outSlope: 0.38761646
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0.014316015
+        inSlope: -0.29988587
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.34325877
+        inSlope: 0
+        outSlope: 2.7030706
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: 0.3819321
+        inSlope: 1.2278557
+        outSlope: 1.2233853
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.3943422
+        inSlope: 0.06407499
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.93906856
+        inSlope: 0
+        outSlope: -1.0043383
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: 0.92388034
+        inSlope: -0.500679
+        outSlope: -0.50365925
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.91878754
+        inSlope: -0.02682209
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.014737015
+        inSlope: 0
+        outSlope: -0.93900603
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: -0.0016336665
+        inSlope: -0.5668961
+        outSlope: -0.5662441
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0.0042707864
+        inSlope: 0.35464764
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.074894734
+        inSlope: 0
+        outSlope: 0.75511634
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: 0.081615336
+        inSlope: 0.017881393
+        outSlope: 0.017136335
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.081842974
+        inSlope: 0.18328428
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.19250432
+        inSlope: 0
+        outSlope: 7.915497
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: 0.27223226
+        inSlope: 1.8388033
+        outSlope: 1.8402934
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.29106438
+        inSlope: -0.008940697
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.97832286
+        inSlope: 0
+        outSlope: -1.5974045
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.02
+        value: 0.9587627
+        inSlope: -0.5245209
+        outSlope: -0.5245209
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 0.95318675
+        inSlope: -0.008940697
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.35
+        inSlope: -0.0028294069
+        outSlope: -0.0028294069
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.52075464
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -14.89
+        inSlope: 8.366003
+        outSlope: 8.366003
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.47321424
+      - serializedVersion: 3
+        time: 0.04
+        value: -14.89
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 11.42
+        inSlope: 0.00027886755
+        outSlope: 0.00027886755
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.32830185
+      - serializedVersion: 3
+        time: 0.04
+        value: 11.42
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: -192.63905
+        outSlope: -192.63905
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.2707581
+      - serializedVersion: 3
+        time: 0.04
+        value: -3.197897
+        inSlope: 32.880505
+        outSlope: 32.880505
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.21931417
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 8.755388
+        inSlope: 64.35318
+        outSlope: 64.35318
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.5425532
+      - serializedVersion: 3
+        time: 0.04
+        value: 8.845848
+        inSlope: 31.99605
+        outSlope: 31.99605
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.5118644
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 22.263716
+        inSlope: 914.0987
+        outSlope: 914.0987
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.28775373
+      - serializedVersion: 3
+        time: 0.02
+        value: 31.489136
+        inSlope: 214.14975
+        outSlope: 214.14975
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.37808067
+        outWeight: 0.42599255
+      - serializedVersion: 3
+        time: 0.04
+        value: 33.713654
+        inSlope: 0.899601
+        outSlope: 0.899601
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5
+        inSlope: 37.128067
+        outSlope: 37.128067
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0.5
+        inSlope: 82.98968
+        outSlope: 82.98968
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2
+        inSlope: -130.88036
+        outSlope: -130.88036
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -2
+        inSlope: -1.9464874
+        outSlope: -1.9464874
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.57446814
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 40.166588
+        inSlope: 330.1831
+        outSlope: 330.1831
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.69152534
+      - serializedVersion: 3
+        time: 0.02
+        value: 44.93723
+        inSlope: 152.1906
+        outSlope: 152.1906
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: 46.46659
+        inSlope: 6.0548854
+        outSlope: 6.0548854
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.04
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: reference/frArms_skinMale_Spine/frArms_skinMale_LeftShoulder/frArms_skinMale_LeftArm/frArms_skinMale_LeftForeArm/frArms_skinMale_LeftForeArmRoll/frArms_skinMale_LeftHand/frArms_skinMale_LeftHandMiddle1/frArms_skinMale_LeftHandMiddle2/frArms_skinMale_LeftHandMiddle3
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
